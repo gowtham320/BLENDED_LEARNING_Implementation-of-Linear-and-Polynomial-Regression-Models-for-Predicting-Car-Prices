@@ -69,8 +69,8 @@ plt.show()
 
 ## Output:
 ~~~
-Screenshot 2026-02-26 004408.png
-Screenshot 2026-02-26 004351.png
+![alt text]()
+![alt text]()
 ~~~
 
 ## Result:
