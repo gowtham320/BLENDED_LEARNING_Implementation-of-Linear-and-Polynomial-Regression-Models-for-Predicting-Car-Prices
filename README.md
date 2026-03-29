@@ -69,7 +69,7 @@ plt.show()
 
 ## Output:
 ~~~
-![alt text]()
+![alt text](Screenshot 2026-02-26 004351.png)
 ![alt text]()
 ~~~
 
