@@ -69,8 +69,9 @@ plt.show()
 
 ## Output:
 ~~~
-![alt text](Screenshot 2026-02-26 004351.png)
-![alt text](Screenshot 2026-02-26 004408.png)
+<img width="1358" height="595" alt="Screenshot 2026-02-26 004408" src="https://github.com/user-attachments/assets/72298334-d07c-4225-b915-2facd15026fc" />
+<img width="1249" height="763" alt="Screenshot 2026-02-26 004351" src="https://github.com/user-attachments/assets/c9c9d66e-e6d7-4e2e-a4e6-83907a06d727" />
+
 ~~~
 
 ## Result:
